@@ -51,15 +51,4 @@ Notes
 Feel free to explore each project version to understand how Spring technologies can be leveraged for different aspects of application development.
 
 ---
-This repository is maintained by [KadriSof].
-
-
-In this README template:
-
-- **Project Structure:** Clearly outlines the purpose and structure of the repository.
-- **Folder Structure:** Illustrates how the project versions are organized within the repository.
-- **How to Use:** Provides basic instructions for users to get started with the repository.
-- **Resources:** Includes helpful links for further reading on Spring framework components.
-- **Notes:** Personalize this section to include any additional information or disclaimers.
-
-You can customize this template further to better fit your repository's specifics and add any additional details you think might be helpful for users.
+This repository is maintained by [@KadriSof].
