@@ -22,11 +22,11 @@ This repository serves as a portfolio project showcasing my exploration of diffe
 ## Folder Structure
 
 ├── jpa-version/ <br/>
-├── jdbc-version/
-├── cassandra-version/
-├── mongodb-version/
-├── security-version/
-└── mvc-version/
+├── jdbc-version/ <br/>
+├── cassandra-version/ <br/>
+├── mongodb-version/ <br/>
+├── security-version/ <br/>
+└── mvc-version/ <br/>
 
 
 Each folder contains a standalone version of the "Taco Cloud" project with the respective Spring framework implementation.
