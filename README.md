@@ -35,7 +35,7 @@ Each folder contains a standalone version of the "Taco Cloud" project with the r
 
 1. Clone this repository:
 
-`   git clone https://github.com/your-username/spring-portfolio.git`
+`git clone https://github.com/your-username/spring-portfolio.git`
 
 Navigate to the desired folder to explore a specific version of the project.
 
