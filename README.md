@@ -40,11 +40,11 @@ Each folder contains a standalone version of the "Taco Cloud" project with the r
 Navigate to the desired folder to explore a specific version of the project.
 
 ## Resources
-[Spring Framework](https://spring.io/projects/spring-framework)
-[Spring Data](https://spring.io/projects/spring-data)
-[Spring Boot](https://spring.io/projects/spring-boot)
-[Spring Security](https://spring.io/projects/spring-security)
-[Spring MVC](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html)
+. [Spring Framework](https://spring.io/projects/spring-framework)
+. [Spring Data](https://spring.io/projects/spring-data)
+. [Spring Boot](https://spring.io/projects/spring-boot)
+. [Spring Security](https://spring.io/projects/spring-security)
+. [Spring MVC](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html)
 
 ## Notes
 Feel free to explore each project version to understand how Spring technologies can be leveraged for different aspects of application development.
