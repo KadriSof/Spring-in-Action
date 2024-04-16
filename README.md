@@ -21,7 +21,7 @@ This repository serves as a portfolio project showcasing my exploration of diffe
 
 ## Folder Structure
 
-├── jpa-version/
+├── jpa-version/ <br/>
 ├── jdbc-version/
 ├── cassandra-version/
 ├── mongodb-version/
